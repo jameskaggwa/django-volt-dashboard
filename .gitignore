@@ -8,8 +8,11 @@
 build/
 env
 /staticfiles/
+volt_env
+/volt_env
 
 #src
 *.sqlite*
 
 .env
+
